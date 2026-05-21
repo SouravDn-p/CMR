@@ -39,11 +39,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .env.local*
-env
+.env*
 
 .vercel
 
-.vercel
-config.bat
-temp_auto_push.bat
-temp_interactive_push.bat
